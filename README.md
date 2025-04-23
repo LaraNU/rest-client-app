@@ -2,6 +2,12 @@
 
 A lightweight Postman-like REST client built with Next.js, featuring authentication, request history, and environment variables.
 
+## Deployment
+
+The app deployed to Netlify
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://rsnextteam.netlify.app/en)
+
 ## Features
 
 - 🔒 **Authentication** with Firebase
@@ -92,12 +98,6 @@ To view test coverage:
 ```bash
 npm run coverage
 ```
-
-## Deployment
-
-The app deployed to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://rsnextteam.netlify.app/en)
 
 ## Team
 
